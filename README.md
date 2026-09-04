@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Abhi Chandra — Backend & Platform Engineer" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7B42BC&height=200&section=header&text=Abhi%20Chandra&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20Platform%20Engineer&descAlignY=62&descSize=20" />
+<img alt="Abhi Chandra V — Backend, Platform, Cloud Builder" width="100%" src="assets/banner.png" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=560&lines=Backend+APIs+%7C+Distributed+Systems;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+reliable%2C+observable+infrastructure)](https://git.io/typing-svg)
 
