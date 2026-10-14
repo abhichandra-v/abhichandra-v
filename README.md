@@ -17,17 +17,15 @@
 - 🔧 I design and run **backend services** and the **platform** underneath them — think APIs, data stores, and the Kubernetes/Terraform/CI-CD plumbing that ships them safely.
 - 🏗️ I care about systems that are correct under load, cheap to operate, and boring to debug at 3am.
 - 📈 Interested in observability, cost-aware infra, and making deploys a non-event.
-- 🌱 Currently exploring: <!-- TODO: e.g. "GitOps with ArgoCD", "eBPF observability", "service mesh" -->
+- 🌱 Currently exploring: progressive delivery with Argo Rollouts, and container supply-chain security (Trivy, checkov, distroless images)
 - 💬 Ask me about: API design, container orchestration, infrastructure-as-code, CI/CD pipelines
 
 <details>
 <summary>⚡ A few more things about me</summary>
 <br/>
 
-<!-- TODO: swap these for real facts about you -->
-- 🖥️ Daily drivers: <!-- e.g. Neovim, tmux, WSL2 -->
-- 📦 Last thing I shipped: <!-- short blurb -->
-- 🎯 2026 goal: <!-- e.g. "get a system to 99.99% uptime without babysitting it" -->
+- 📦 Last thing I shipped: **prodready** — a zero-dependency Go CLI that flags production anti-patterns in Kubernetes manifests & Dockerfiles
+- 🧪 Recent case study: a naive ~1GB root image & manual deploys → an 8MB distroless image shipped by a tested, Trivy-scanned pipeline
 - ☕ Fueled by: coffee and `kubectl logs -f`
 
 </details>
@@ -81,12 +79,13 @@
 
 ### Featured Projects
 
-<!-- TODO: swap these for your real repos — keep the format, edit link/description -->
-
 <div align="center">
 
-[![Project One](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=REPO_NAME_ONE&theme=default)](https://github.com/abhichandra-v/REPO_NAME_ONE)
-[![Project Two](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=REPO_NAME_TWO&theme=default)](https://github.com/abhichandra-v/REPO_NAME_TWO)
+[![prodready](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=prodready&theme=default)](https://github.com/abhichandra-v/prodready)
+[![orders-api-pipeline](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=orders-api-pipeline&theme=default)](https://github.com/abhichandra-v/orders-api-pipeline)
+
+[![agent-to-prod](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=agent-to-prod&theme=default)](https://github.com/abhichandra-v/agent-to-prod)
+[![k8s-hardening-case-study](https://github-readme-stats.vercel.app/api/pin/?username=abhichandra-v&repo=k8s-hardening-case-study&theme=default)](https://github.com/abhichandra-v/k8s-hardening-case-study)
 
 </div>
 
@@ -156,14 +155,11 @@
 
 ### Let's Connect
 
-<!-- TODO: fill in your real links, then delete this comment -->
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-site.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhichandra-web-ai)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abhichandra.online)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhichandrav108@gmail.com)
 
 </div>
 
